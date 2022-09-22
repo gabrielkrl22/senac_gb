@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+
+body{
+	background-color: purple;
+	background-image: url("download (1).png");
+	background-size: cover;
+}
+.caixa1{
+    width: 325px;
+    height: 215px;
+    border: solid 10px blue;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.caixa2{
+    width: 340px;
+    height: 215px;
+    border: solid 10px blue;
+    padding: 10px;
+    box-sizing: border-box;
+}
